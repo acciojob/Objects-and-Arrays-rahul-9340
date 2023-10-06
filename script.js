@@ -9,7 +9,7 @@ const person = {
 
 
 let team = players;
-let team1 ="john,bob,Alice,Poppy"
+let team1 =["John", "Bob", "Alice", "Poppy"]
 
 let cap1 = {
   name: "John Doe",
